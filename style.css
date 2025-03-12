@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;box-sizing: border-box;
+}
+
+html, body{
+    margin: inherit;
+    padding: inherit;
+    box-sizing: inherit;
+
+}
+
+
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    /* overflow: hidden; */
+}
